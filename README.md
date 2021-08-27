@@ -1,2 +1,2 @@
-# Day-Trip-Generator
+# Day-Trip-Generator Proj
 Random Day Trip Generator
